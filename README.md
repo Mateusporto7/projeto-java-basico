@@ -1,2 +1,2 @@
 # projeto-java-basico
-Repositório para armazenar o código java básico
+Alterando o arquivo Repositório para armazenar o código java básico
